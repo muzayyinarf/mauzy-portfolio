@@ -12,10 +12,13 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
+export const metadata = {
   title: "Muzayyin Arifin | Flutter & Web Developer",
   description:
     "Portfolio website of Muzayyin Arifin, a Flutter & Web Developer building practical apps, web tools, and business solutions.",
+  icons: {
+    icon: "/icon.svg",
+  },
 };
 
 export default function RootLayout({

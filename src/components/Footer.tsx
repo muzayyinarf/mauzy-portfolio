@@ -14,7 +14,7 @@ export default function Footer() {
 
           <div className="flex gap-6">
             <a
-              href="https://github.com"
+              href="https://github.com/muzayyinarf"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-400 transition hover:text-cyan-400"
@@ -22,7 +22,7 @@ export default function Footer() {
               GitHub
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/muzayyinarf"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-400 transition hover:text-cyan-400"
@@ -30,7 +30,7 @@ export default function Footer() {
               LinkedIn
             </a>
             <a
-              href="mailto:hello@example.com"
+              href="mailto:muzayyinarf@gmail.com"
               className="text-slate-400 transition hover:text-cyan-400"
             >
               Email

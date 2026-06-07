@@ -32,7 +32,7 @@ Message:
 ${formData.message}
     `;
 
-    const mailtoLink = `mailto:muzayyinarifin46@gmail.com?subject=${encodeURIComponent(
+    const mailtoLink = `mailto:muzayyinarf@gmail.com?subject=${encodeURIComponent(
       subject,
     )}&body=${encodeURIComponent(body)}`;
 

@@ -26,7 +26,7 @@ export default function ContactSection() {
 
           <div className="flex flex-wrap gap-4">
             <a
-              href="mailto:muzayyinarifin46@gmail.com"
+              href="mailto:muzayyinarf@gmail.com"
               className="rounded-full bg-cyan-400 px-6 py-3 font-semibold text-slate-950 transition hover:bg-cyan-300"
             >
               Email Me
